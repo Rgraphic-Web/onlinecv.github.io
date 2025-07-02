@@ -246,7 +246,7 @@ body.dark-theme{
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  background:linear-gradient(90deg, hsl(var(--hue),30%,70%), hsl(var(--hue),40%,10%));
+  background:linear-gradient(90deg, hsl(var(--hue), 31%, 85%), hsl(var(--hue), 18%, 67%));
   animation: b2Animation 10s infinite;
 }
 .perfil:hover{
